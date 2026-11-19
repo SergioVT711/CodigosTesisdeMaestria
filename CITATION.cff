@@ -1,0 +1,16 @@
+
+cff-version: 1.2.0
+message: "Si utilizas estos códigos en tu investigación, considera citar este repositorio."
+title: "Posición, momentos lineal y angular más allá del álgebra e(3)"
+type: software
+authors:
+  - family-names: Veloz Torres
+    given-names: Sergio 
+abstract: >
+  Códigos computacionales desarrollados en Wolfram Mathematica
+  para realizar cálculos simbólicos, explorar estructuras
+  algebraicas y verificar relaciones matemáticas en el marco
+  de la investigación de Maestría en Física.
+repository-code: "https://github.com/SergioVT711/CodigosTesisdeMaestria"
+license: MIT
+date-released: "2026-11-19"
