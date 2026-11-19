@@ -2,42 +2,57 @@
 
 ## Descripción
 
-Este repositorio contiene los códigos computacionales desarrollados en Wolfram Mathematica como material complementario de la investigación titulada *Posición, momentos lineal y angular más allá del álgebra e(3)*, correspondiente a una tesis de Maestría en Física.
+Este repositorio contiene los códigos computacionales desarrollados en **Wolfram Mathematica** como material complementario de la investigación titulada *Posición, momentos lineal y angular más allá del álgebra e(3)*, correspondiente a la tesis de Maestría en Física.
 
 Los programas tienen como propósito realizar cálculos simbólicos, explorar estructuras algebraicas y verificar relaciones matemáticas involucradas en el desarrollo de la investigación.
 
-## Software utilizado
+## Contenido del repositorio
 
-- **Wolfram Mathematica:** implementación de procedimientos computacionales y cálculos simbólicos mediante Wolfram Language.
+El repositorio incluye los siguientes notebooks de Mathematica:
 
-## Códigos disponibles
+- **Corchetes de Poisson Tesis.nb:** implementación de cálculos simbólicos relacionados con los corchetes de Poisson.
+- **Expansión de amplitudes Tesis.nb:** procedimientos para el cálculo y análisis de expansiones de amplitudes.
+- **Producto Estrella Tesis.nb:** cálculos simbólicos relacionados con el producto estrella y las estructuras algebraicas estudiadas.
 
-Los siguientes notebooks contienen los procedimientos computacionales desarrollados durante la investigación:
+Cada notebook contiene indicaciones y comentarios que facilitan la comprensión de los procedimientos implementados.
 
-| Archivo | Descripción |
-|---|---|
-| `Corchetes de Poisson Tesis.nb` | Cálculos relacionados con los corchetes de Poisson. |
-| `Expansion de amplitudes Tesis.nb` | Procedimientos de expansión de amplitudes. |
-| `Producto Estrella Tesis.nb` | Implementación y cálculos relacionados con el producto estrella. |
+## Requisitos y utilización
 
-## Instrucciones de uso
+Los códigos fueron desarrollados en **Wolfram Mathematica**, utilizando Wolfram Language.
 
-Los archivos con extensión `.nb` corresponden a notebooks de Wolfram Mathematica.
+Para utilizarlos:
 
-Para consultar y ejecutar los procedimientos computacionales se requiere Wolfram Mathematica. Se recomienda abrir los archivos directamente desde dicho programa.
+1. Descarga el notebook de interés (`.nb`) desde este repositorio.
+2. Abre el archivo utilizando Wolfram Mathematica.
+3. Ejecuta las celdas para reproducir los cálculos y verificar los resultados.
+4. Si lo deseas, puedes modificar los parámetros y expresiones para explorar otros casos o comprobar las relaciones matemáticas presentadas.
 
-Los notebooks incluyen indicaciones para facilitar la comprensión de los procedimientos implementados.
+Los programas se proporcionan con fines de consulta, reproducción y experimentación. Se recomienda trabajar sobre una copia de los archivos originales.
 
-## Material complementario
+## Versión archivada y DOI
 
-Este repositorio constituye material computacional complementario de la tesis y tiene como finalidad facilitar la consulta, revisión y reproducción de los cálculos desarrollados durante la investigación.
+La primera versión pública de este material computacional se encuentra archivada en Zenodo.
 
----
+**Versión:** 1.0.0
 
-**Título de la investigación:** Posición, momentos lineal y angular más allá del álgebra e(3).
+**DOI:** [10.5281/zenodo.24362152](https://doi.org/10.5281/zenodo.24362152)
 
-**Lenguaje:** Wolfram Language.
+**Registro permanente:** https://doi.org/10.5281/zenodo.24362152
 
-**Software:** Wolfram Mathematica.
+## Cómo citar este repositorio
 
-**Repositorio:** [CodigosTesisdeMaestria](https://github.com/SergioVT711/CodigosTesisdeMaestria)
+Si utilizas estos códigos en una investigación, publicación o trabajo académico, se solicita citar el repositorio mediante la siguiente referencia:
+
+Veloz Torres, S. (2026). *Posición, momentos lineal y angular más allá del álgebra e(3)* (Versión 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.24362152
+
+También puedes consultar los metadatos de citación disponibles en Zenodo.
+
+## Licencia
+
+Este material se distribuye bajo los términos de la licencia **MIT**. Consulta el archivo `LICENSE` para conocer las condiciones de uso, modificación y distribución.
+
+## Autor
+
+**Sergio Veloz Torres**
+
+Material computacional complementario de la tesis de Maestría en Física.
